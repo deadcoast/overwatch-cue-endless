@@ -3,7 +3,7 @@
 A standalone, animated Overwatch-style searching widget for OBS. Show an endless queue screen with an elapsed timer, rotating badge, and sonar pulse. Choose the full panel or a compact searching tab.
 
 > [!TIP]
-> To edit the widget hit `s` or `double-click the top500 badge above "SEARCING"`
+> To edit the widgets elapsed cue time, hit `s` or `double-click the top500 badge above "SEARCING"`
 
 ## Screenshot
 
