@@ -6,7 +6,7 @@ The widget is manually controlled. It does not read your Overwatch queue or send
 
 ## Screenshot
 
-![Running widget with the full panel, elapsed timer, and settings drawer][widget-screenshot]
+![Running widget with the full panel, elapsed timer, and settings drawer][https://github.com/deadcoast/overwatch-cue-endless/blob/main/docs/images/widget-running.png]
 
 Captured from the running browser preview with settings open. The blue backdrop belongs to the preview; the OBS overlay has a transparent background.
 
