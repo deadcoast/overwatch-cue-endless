@@ -6,11 +6,9 @@ The widget is manually controlled. It does not read your Overwatch queue or send
 
 ## Screenshot
 
-![Running widget with the full panel, elapsed timer, and settings drawer][https://github.com/deadcoast/overwatch-cue-endless/blob/main/docs/images/widget-running.png]
+![Running widget with the full panel, elapsed timer, and settings drawer](docs/images/widget-running.png)
 
 Captured from the running browser preview with settings open. The blue backdrop belongs to the preview; the OBS overlay has a transparent background.
-
-**Screenshot URL placeholder:** replace the `widget-screenshot` URL at the bottom of this README after pushing. The captured image is saved at [docs/images/widget-running.png](docs/images/widget-running.png).
 
 ## Installation
 
@@ -107,6 +105,3 @@ Use forward slashes and encode spaces in the path as `%20`.
 - **OBS still shows an older version after replacing the HTML:** refresh the Browser source from its properties.
 
 The screenshot and browser checks were captured in Chromium. Native OBS rendering was not exercised for this documentation update. Earlier visual checks are recorded in [docs/motion-verification.md](docs/motion-verification.md).
-
-<!-- Replace this placeholder with the final hosted screenshot URL after pushing. -->
-[widget-screenshot]: https://example.com/REPLACE_WITH_WIDGET_SCREENSHOT_URL.png
