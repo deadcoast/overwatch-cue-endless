@@ -22,7 +22,7 @@ Opened and visually inspected the user's `Screenshot 2026-11-12 020015.png`, the
 - Matched the badge's size relative to the tab and the dark-disc-to-outer-white radius ratio (23.8 / 30.3 = 0.785; approximately 42 / 54 = 0.778 in the video). Narrowed and lightened the gold rim.
 - Kept the existing rotation period, pulse, embedded icon, layout, timer, and settings behavior.
 
-[Inspected original-video / revised-render comparison](shape-reference-comparison.png). The original video is enlarged from its native resolution; the comparison supports the silhouette and proportions, not a claim of pixel-identical artwork.
+[Inspected original-video / revised-render comparison](../.design/shape-reference-comparison.png). The original video is enlarged from its native resolution; the comparison supports the silhouette and proportions, not a claim of pixel-identical artwork.
 
 Personally viewed Chromium screenshots of the revised shape at 0, 45, 90, and 135 degrees, the full overlay at 1480 x 580, the tab at 880 x 270, and the normal browser preview with settings. A separate visual review also checked the comparison and rotated closeups. The white band remains continuous and the long outside edges are circular in the inspected views.
 
