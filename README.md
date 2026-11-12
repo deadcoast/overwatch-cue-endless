@@ -2,7 +2,7 @@
 
 A standalone, animated Overwatch-style searching widget for OBS. Show an endless queue screen with an elapsed timer, rotating badge, and sonar pulse. Choose the full panel or a compact searching tab.
 
-The widget is manually controlled. It does not read your Overwatch queue or send commands to the game.
+To edit the widget us a simple graphic overlay, hit **s** or **double-click the top500 badge**.
 
 ## Screenshot
 
